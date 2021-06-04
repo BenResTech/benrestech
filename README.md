@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ben, an IT Infrastructure Engineer helping to build and deploy software and infrastructure for [Egress Software Technologies](https://www.egress.com/).
+I'm Ben, an Infrastructure Engineer helping to build and deploy software and infrastructure for [Egress Software Technologies](https://www.egress.com/).
 
 I like creating build pipelines, and am currently trying to automate as much of our software delivery process as possible.
 
